@@ -1,2 +1,4 @@
-# designPatterns
-Examples for Design Patterns
+# Design Patterns
+Examples for the following design patterns:
+* Factory Method
+* Strategy
